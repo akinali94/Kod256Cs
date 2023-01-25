@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/bin/Debug/net6.0/02-ConsoleApplications
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/bin/Debug/net6.0/02-ConsoleApplications.deps.json
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/bin/Debug/net6.0/02-ConsoleApplications.runtimeconfig.json
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/bin/Debug/net6.0/02-ConsoleApplications.dll
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/bin/Debug/net6.0/02-ConsoleApplications.pdb
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.dll
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/refint/02-ConsoleApplications.dll
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.pdb
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/02-ConsoleApplications.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/02-ConsoleApplications/obj/Debug/net6.0/ref/02-ConsoleApplications.dll
