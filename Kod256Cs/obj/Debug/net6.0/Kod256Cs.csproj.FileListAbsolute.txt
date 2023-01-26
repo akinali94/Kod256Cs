@@ -1,0 +1,15 @@
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/bin/Debug/net6.0/Kod256Cs
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/bin/Debug/net6.0/Kod256Cs.deps.json
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/bin/Debug/net6.0/Kod256Cs.runtimeconfig.json
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/bin/Debug/net6.0/Kod256Cs.dll
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/bin/Debug/net6.0/Kod256Cs.pdb
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.csproj.AssemblyReference.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.AssemblyInfoInputs.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.AssemblyInfo.cs
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.csproj.CoreCompileInputs.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.dll
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/refint/Kod256Cs.dll
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.pdb
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/Kod256Cs.genruntimeconfig.cache
+/Users/aliakin/Documents/Coding/Visual Studio/Kod256Cs/Kod256Cs/obj/Debug/net6.0/ref/Kod256Cs.dll

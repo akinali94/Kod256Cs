@@ -1,4 +1,28 @@
-﻿<Properties StartupConfiguration="{017D66DF-1393-453D-8074-DB1BB8FFC4E0}|Default">
-  <MonoDevelop.Ide.ItemProperties.Kod256Cs FirstBuild="True" />
+﻿<Properties StartupConfiguration="{D09951B8-0063-4339-BE2A-789E43626F44}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02-ConsoleApplications PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Kod256Cs PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02-ConsoleApplications/Program.cs">
+    <Files>
+      <File FileName="02-ConsoleApplications/Program.cs" Line="18" Column="20" />
+      <File FileName="02-ConsoleApplications/Question03.cs" />
+      <File FileName="02-ConsoleApplications/Question04.cs" />
+      <File FileName="02-ConsoleApplications/Question01.cs" />
+      <File FileName="Q0201/Program.cs" />
+      <File FileName="Kod256Cs/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kod256Cs" expanded="True">
+            <Node name="Kod256Cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.03-ConstantsandVariables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
